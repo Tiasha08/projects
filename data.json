@@ -1,50 +1,50 @@
 [
-  {
-    "name": "Tiasha Bisaws",
-    "age": 19,
-    "email": "tiasha@gmail.com",
-    "pin": 1234,
-    "accountNo.": "1234",
-    "balance": 500
-  },
-  {
-    "name": "Suvra Bisaws",
-    "age": 50,
-    "email": "suvra@gmail.com",
-    "pin": 1342,
-    "accountNo.": "17eL0k@",
-    "balance": 1000
-  },
-  {
-    "name": "Sowvik Bisaws",
-    "age": 23,
-    "email": "sowvik@gmail.com",
-    "pin": 2345,
-    "accountNo.": "x2N@G46",
-    "balance": 1500
-  },
-  {
-    "name": "Gopal Bisaws",
-    "age": 55,
-    "email": "gopal@gmail.com",
-    "pin": 4532,
-    "accountNo.": "g0p@l123",
-    "balance": 200
-  },
-  {
-    "name": "Tiasha Biswas",
-    "age": 19,
-    "email": "ishaa@gmail.com",
-    "pin": 4562,
-    "accountNo.": "8q3C0c^",
-    "balance": 0
-  },
-  {
-    "name": "Samiran Pal",
-    "age": 21,
-    "email": "sam@gmail.com",
-    "pin": 2525,
-    "accountNo.": "#D5R3n2",
-    "balance": 0
-  }
+    {
+        "name": "Tiasha Bisaws",
+        "age": 19,
+        "email": "tiasha@gmail.com",
+        "pin": 1234,
+        "accountNo.": "1234",
+        "balance": 500
+    },
+    {
+        "name": "Suvra Bisaws",
+        "age": 50,
+        "email": "suvra@gmail.com",
+        "pin": 1342,
+        "accountNo.": "17eL0k@",
+        "balance": 1000
+    },
+    {
+        "name": "Sowvik Bisaws",
+        "age": 23,
+        "email": "sowvik@gmail.com",
+        "pin": 2345,
+        "accountNo.": "x2N@G46",
+        "balance": 1500
+    },
+    {
+        "name": "Gopal Bisaws",
+        "age": 55,
+        "email": "gopal@gmail.com",
+        "pin": 4532,
+        "accountNo.": "g0p@l123",
+        "balance": 200
+    },
+    {
+        "name": "Tiasha Biswas",
+        "age": 19,
+        "email": "ishaa@gmail.com",
+        "pin": 4562,
+        "accountNo.": "8q3C0c^",
+        "balance": 0
+    },
+    {
+        "name": "Rajaa Biswas",
+        "age": 28,
+        "email": "raja@gmail.com",
+        "pin": 3232,
+        "accountNo.": "47F#eX0",
+        "balance": 0
+    }
 ]
